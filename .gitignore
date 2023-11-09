@@ -34,3 +34,70 @@ main.exe
 LINKED LIST/LL.exe
 LINKED LIST/Singly_Linked_list.exe
 QUEUE/CircularQueue.exe
+BFSRomania.exe
+main.cpp
+Ztcs.exe
+Backtracking/Maze.exe
+Trie/trie.exe
+TREE/Binary Tree/TreeViews.exe
+TREE/Binary Tree/Traversals.exe
+TREE/Binary Tree/Path.exe
+TREE/Binary Tree/MorrisTraversal.exe
+TREE/Binary Tree/DiameterOfBinaryTree.exe
+TREE/Binary Tree/ConstructTree.exe
+TREE/Binary Search Tree/FlattenBSTintoLL.exe
+TREE/Binary Search Tree/BST.exe
+STACK/StackLL.exe
+STACK/Stack.exe
+STACK/SortStack.exe
+STACK/ReverseStackRecursion.exe
+STACK/ReverseRecursive.exe
+STACK/ReverseIterative.exe
+STACK/NstacksInAnArray.exe
+STACK/InfixToPostfix.exe
+SORTING Recursive/SelectionSort.exe
+SORTING Recursive/InsertionSort.exe
+SORTING Recursive/CountInversion.exe
+SORTING Recursive/BubbleSort.exe
+Sieve of Eratosthenes/SimpleSieveModified.exe
+Sieve of Eratosthenes/SegmentedSieve.exe
+QUEUE/QueueByLL.exe
+QUEUE/QueueByArray.exe
+Sieve of Eratosthenes/SimpleSieve.exe
+QUEUE/NQueueUsingAnArray.exe
+QUEUE/DEQUEUEbyArray.exe
+LoveBabbar/ReplaceSpaces.exe
+LoveBabbar/Maximum_Occuring_Character.exe
+LoveBabbar/GCDrecursion.exe
+LoveBabbar/GCDiteration.exe
+LoveBabbar/LinkedList/SplitCircularLL.exe
+LoveBabbar/Queue/CircularTour.exe
+LoveBabbar/Queue/SumOfMinMaxOfSubArrays.exe
+LINKED LIST/ReverseLL_K_Order.exe
+LINKED LIST/SinglyLinkedList.exe
+LINKED LIST/MergeSortLL.exe
+LINKED LIST/RemoveDuplicates.exe
+LINKED LIST/MergeSortedLL.exe
+LINKED LIST/FloydDetectionAlgo.exe
+LINKED LIST/DoublyLinkedList.exe
+LINKED LIST/CircularLinkedList.exe
+Heap/MinHeap.exe
+Heap/MaxHeap.exe
+Graph/TopologicalSort.exe
+Graph/MST.exe
+HashMap/map.exe
+LINKED LIST/AddTwoNumbers.exe
+Graph/GraphAdjList.exe
+Graph/Graph.exe
+Graph/DijkstrasAlgo.exe
+Graph/CycleDetectionDirected.exe
+Graph/CycleDetectionUndirected.exe
+Graph/KosarajuAlgo.exe
+Graph/GraphAdjMatrix.exe
+Graph/ArticulationPoints.exe
+Binary Search/binarySearch.exe
+Binary Search/binary_Search_recursive.exe
+Graph/CycleDetection.exe
+Graph/Bridge.exe
+Backtracking/Sudoku.exe
+Backtracking/NQueen.exe

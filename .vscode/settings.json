@@ -1,5 +1,20 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "set": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "barrier": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "latch": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp",
+        "map": "cpp",
+        "variant": "cpp",
+        "unordered_map": "cpp",
+        "new": "cpp"
     }
 }
