@@ -102,3 +102,9 @@ Graph/Bridge.exe
 Backtracking/Sudoku.exe
 Backtracking/NQueen.exe
 DP/Fibonacci.exe
+DP/Derangements.exe
+DP/MaxNonAdjacentSum.exe
+DP/MinCostStairs.exe
+DP/2D/01Knapsack.exe
+DP/2D/LargestSqurePossible.exe
+DP/2D/LIS.exe
